@@ -12,8 +12,8 @@
 3. Allow users to delete all stored data if needed.
 
 ---
-![img_20241128(1)](https://github.com/user-attachments/assets/0e5f6a5a-c089-470e-bb2a-81075eb78ca0)
 
+![img_20241128](https://github.com/user-attachments/assets/84967784-ed87-4880-8d8a-09ba567497b2)
 
 ### **How It Works**
 
@@ -52,8 +52,8 @@
 3. If the user clicks **Delete**, all data is cleared from the list.
 
 ---
-![img_20241128(2)](https://github.com/user-attachments/assets/e3149209-5539-49c5-b9fc-ab5534aac11c)
 
+![img_20241128(1)](https://github.com/user-attachments/assets/0e5f6a5a-c089-470e-bb2a-81075eb78ca0)
 
 ### **User Experience**
 1. A smooth flow between two forms:
@@ -69,4 +69,5 @@
 - The second form dynamically fetches data from the main form whenever required, ensuring both forms are synchronized.
 
 ---
-![img_20241128](https://github.com/user-attachments/assets/84967784-ed87-4880-8d8a-09ba567497b2)
+![img_20241128(2)](https://github.com/user-attachments/assets/e3149209-5539-49c5-b9fc-ab5534aac11c)
+
